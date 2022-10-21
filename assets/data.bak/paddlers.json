@@ -1,0 +1,244 @@
+{
+    "paddlers": [
+        {
+            "id": "4b32046d-d2bc-4f94-a6c0-14959ea93d73",
+            "name": "Alasdair Bruce",
+            "aliases": []
+        },
+        {
+            "id": "7861e17c-8258-4cda-8c12-246750e8d20f",
+            "name": "Alex Scott",
+            "aliases": ["Alex S"]
+        },
+        {
+            "id": "14d879d2-9b77-41fa-b659-1bb4357fe228",
+            "name": "Ananya Bhusari",
+            "aliases": ["Ananya", "Ananya Bhusa", "Anaya"]
+        },
+        {
+            "id": "ca69ba04-9b86-400b-8285-c9ef98dd7338",
+            "name": "Arthur Catmur",
+            "aliases": ["Arthur", "Arthu Catmurr"]
+        },
+        {
+            "id": "f0d38390-ee33-4e45-9a27-e0b3f14b346d",
+            "name": "Ben Kelly",
+            "aliases": []
+        },
+        {
+            "id": "a561afc9-baa3-4ab0-9f29-7c022b315124",
+            "name": "Ben Tubby",
+            "aliases": []
+        },
+        {
+            "id":"e3ca1a65-e763-4c79-a7c5-3f40c3f9310f",
+            "name": "Catherine Robinson",
+            "aliases": ["Catherine R"]
+        },
+        {
+            "id": "c88830d5-7c68-469f-8e6f-c2eaa90da27b",
+            "name": "Chris Sze",
+            "aliases": []
+        },
+        {
+            "id": "692e6180-e728-419b-96e1-4737e8904b5c",
+            "name": "Christine Meula",
+            "aliases": ["Christine", "Christine M", "Christine Meul"]
+        },
+        {
+            "id": "851adc8e-fe9d-495b-8fc2-29cad76345b7",
+            "name": "Daniel Spangehl",
+            "aliases": []
+        },
+        {
+            "id": "2d0f7d53-0734-4077-8269-638ff1ee71f7",
+            "name": "Dave Cayford",
+            "aliases": []
+        },
+        {
+            "id": "3bb12dc0-51d9-4fd1-bde4-e555b4447f50",
+            "name": "David Gurney",
+            "aliases": ["David G"]
+        },
+        {
+            "id": "0d746a07-39a5-4584-8d95-9cf2d1e4701d",
+            "name": "Derek Lawless",
+            "aliases": ["Derek"]
+        },
+        {
+            "id": "429c9587-84e8-4a1a-b587-d18f2ccf0aa5",
+            "name": "Eddie Kirtland",
+            "aliases": ["Eddie"]
+        },
+        {
+            "id": "a5c7452a-022b-4dce-a755-9e853ca5380f",
+            "name": "Eilidh White",
+            "aliases": ["Eilidh"]
+        },
+        {
+            "id": "098baa7c-d80f-41ef-b417-adcbf09e8c2a",
+            "name": "Ella Pierce",
+            "aliases": []
+        },
+        {
+            "id": "fcfa3041-2b2f-4cf0-a38e-f9e6e179a188",
+            "name": "Emilie Klumpler",
+            "aliases": ["Emilie Klumple", "Emily Klumpler"]
+        },
+        {
+            "id": "280744f4-987a-453f-965e-54db54762be1",
+            "name": "Eva Tubby",
+            "aliases": []
+        },
+        {
+            "id": "d1c2d241-203d-4395-9ad1-e456fd1ad6ba",
+            "name": "Ewan Gowing",
+            "aliases": ["Ewan Gowin", "Ewan G"]
+        },
+        {
+            "id": "6b64a992-bdb4-4a2e-9d93-46a733c337e0",
+            "name": "Finlay Sandall",
+            "aliases": []
+        },
+        {
+            "id": "82d88fcf-ba0b-47b9-9ab1-a7959c8a84e5",
+            "name": "Ilya",
+            "aliases": []
+        },
+        {
+            "id": "6fc11895-938e-4be3-938e-7d9a5cc069cd",
+            "name": "Jack Gaulton",
+            "aliases": ["Jack G"]
+        },
+        {
+            "id": "db6432c5-4a04-4f46-b9e9-b28720457a93",
+            "name": "Jacque Cayford",
+            "aliases": ["Jacq"]
+        },
+        {
+            "id": "ef274bd1-6aa2-40e2-949d-d31031d1e781",
+            "name": "James Smythe",
+            "aliases": []
+        },
+        {
+            "id": "332c8026-b7fd-4aa2-b50e-90699146fda3",
+            "name": "Jamie Gaulton",
+            "aliases": []
+        },
+        {
+            "id": "c0aa8bb3-b326-44fa-bf1f-6743bcd93ba9",
+            "name": "Jamie McAdam",
+            "aliases": ["Jamie Mc"]
+        },
+        {
+            "id": "d0da28e6-b0ae-4480-8680-294dbed6a7b4",
+            "name": "Jaroslav Klumpler",
+            "aliases": ["Jaroslav (Jay) Klumpler", "Jaroslav (Jay)", "Jay K", "Jay Klumpler"]
+        },
+        {
+            "id": "a83edb65-da34-4b31-af39-3c1f8d7d0c74",
+            "name": "Jasper Kirtland",
+            "aliases": []
+        },
+        {
+            "id": "cf152198-8b53-4eec-9c8b-acc39a35a071",
+            "name": "Joe Donovan",
+            "aliases": []
+        },
+        {
+            "id": "926ae2b6-709a-4d86-8663-1114cfe19eb5",
+            "name": "Karen Bradley",
+            "aliases": []
+        },
+        {
+            "id": "edf8524c-451d-4e81-beb7-a38981f2ac07",
+            "name": "Kayleigh Gaulton",
+            "aliases": ["Kayleigh Gault"]
+        },
+        {
+            "id": "d1ce764b-0f7c-40a8-8d53-e00c9ca8511b",
+            "name": "Kerstin Queeney",
+            "aliases": ["Kerstin"]
+        },
+        {
+            "id": "3afc1eb4-b23e-40b0-9b79-e0f2fc28c790",
+            "name": "Lexie White",
+            "aliases": []
+        },
+        {
+            "id": "da971b0f-c630-454d-822b-fda38ad85858",
+            "name": "Libby Gaulton",
+            "aliases": []
+        },
+        {
+            "id": "f45fd161-4413-493f-805c-765ab133573c",
+            "name": "Lois Jarrold",
+            "aliases": ["Lois"]
+        },
+        {
+            "id": "dc98bdc0-e47d-456d-a4d6-77383da9ede1",
+            "name": "Mark Adams",
+            "aliases": []
+        },
+        {
+            "id": "be77f1f4-bd70-40d3-867b-83386ca7f1d6",
+            "name": "Matthew Pierce",
+            "aliases": ["Matthew"]
+        },
+        {
+            "id": "4387b6e9-5a2a-4f7e-a487-ca0e462c711f",
+            "name": "Mike Toomey",
+            "aliases": []
+        },
+        {
+            "id": "5325aa94-a482-4def-8311-91fbb7f5f962",
+            "name": "Nadim Shawky",
+            "aliases": []
+        },
+        {
+            "id": "8d8cc7e9-1bcb-4ede-b11a-6fb84674cd2f",
+            "name": "Oliver Klumpler",
+            "aliases": ["Oliver", "Oliver Klumple", "Oliver Klumper"]
+        },
+        {
+            "id": "ea754a8e-0057-496d-83cb-a89394b9c1bf",
+            "name": "Peter Wilks",
+            "aliases": []
+        },
+        {
+            "id": "58e044f9-4129-4ab5-92c1-f634b36dadc8",
+            "name": "Petr Luksan",
+            "aliases": []
+        },
+        {
+            "id": "e140ea1c-42b8-4bc6-b416-e2a7596ed228",
+            "name": "Richard Winstanley",
+            "aliases": ["Rich Winstanley"]
+        },
+        {
+            "id": "93fb000b-6f53-4436-a0eb-071c6d37b51c",
+            "name": "Rupert Kirtland",
+            "aliases": ["Rupert Kirtlan"]
+        },
+        {
+            "id": "823f942e-ccf9-4d5e-ba65-3db98726bc14",
+            "name": "Simon Forey",
+            "aliases": ["Simon"]
+        },
+        {
+            "id": "66e35e4e-c6af-462b-a36b-c3aad3f7b42b",
+            "name": "Tom Barton",
+            "aliases": ["Tom B"]
+        },
+        {
+            "id": "f8b4ad1d-83a5-404a-9299-18721633db19",
+            "name": "Tom Holloway",
+            "aliases": ["Tom H"]
+        },
+        {
+            "id": "25448bd6-eb71-484d-ba75-696acc492e69",
+            "name": "Zuzanna Madeja",
+            "aliases": []
+        }
+    ]
+}
