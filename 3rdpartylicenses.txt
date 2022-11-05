@@ -1,3 +1,6 @@
+@angular/animations
+MIT
+
 @angular/common
 MIT
 
@@ -334,7 +337,19 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 
+ngx-bootstrap/component-loader
+MIT
+
+ngx-bootstrap/positioning
+MIT
+
 ngx-bootstrap/tabs
+MIT
+
+ngx-bootstrap/typeahead
+MIT
+
+ngx-bootstrap/utils
 MIT
 
 propagating-hammerjs
