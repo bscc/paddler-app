@@ -57,7 +57,7 @@
         {
             "id": "d1e0cc5d-af10-4e93-949f-c1f6eda83a75",
             "name": "Christopher Anderson",
-            "is_active": true,
+            "is_active": false,
             "aliases": ["Christopher"]
         },
         {
@@ -129,7 +129,7 @@
         {
             "id": "280744f4-987a-453f-965e-54db54762be1",
             "name": "Eva Tubby",
-            "is_active": true,
+            "is_active": false,
             "aliases": ["Eva"]
         },
         {
@@ -171,13 +171,13 @@
         {
             "id": "332c8026-b7fd-4aa2-b50e-90699146fda3",
             "name": "Jamie Gaulton",
-            "is_active": true,
+            "is_active": false,
             "aliases": ["Jamie G"]
         },
         {
             "id": "c0aa8bb3-b326-44fa-bf1f-6743bcd93ba9",
             "name": "Jamie McAdam",
-            "is_active": true,
+            "is_active": false,
             "aliases": ["Jamie Mc", "Jamie Mcadam"]
         },
         {
@@ -231,7 +231,7 @@
         {
             "id": "e72cf931-8688-47ac-99ba-bb484a5693f7",
             "name": "Kevin Short",
-            "is_active": true,
+            "is_active": false,
             "aliases": []
         },
         {
@@ -273,7 +273,7 @@
         {
             "id": "07a7abf7-27ef-4726-a4d1-3a386e3b1199",
             "name": "Mike Panrucker",
-            "is_active": false,
+            "is_active": true,
             "aliases": []
         },
         {
@@ -285,7 +285,7 @@
         {
             "id": "9b6a3276-b132-486b-9e1f-413a38f7674e",
             "name": "Miller Kitchener",
-            "is_active": true,
+            "is_active": false,
             "aliases": ["miller"]
         },
         {
@@ -351,19 +351,19 @@
         {
             "id": "78e4cbf8-f04a-43dc-af22-184178b8c058",
             "name": "Tony Brett",
-            "is_active": true,
+            "is_active": false,
             "aliases": ["Tony B", "Tony"]
         },
         {
             "id": "25448bd6-eb71-484d-ba75-696acc492e69",
             "name": "Zuzanna Madeja",
-            "is_active": true,
+            "is_active": false,
             "aliases": []
         },
         {
             "id": "b0654829-7256-4ebd-8228-96d09feb9654",
             "name": "Adam Beaumont",
-            "is_active": true,
+            "is_active": false,
             "aliases": []
         },
         {
@@ -377,6 +377,12 @@
             "name": "Jamie Winstanley",
             "is_active": true,
             "aliases": []
+        },
+        {
+            "id": "e66ac08a-9483-4c1c-935f-111410da52a6",
+            "name": "Jack Lam",
+            "is_active": true,
+            "aliases": ["Jack L"]
         }
     ]
 }
