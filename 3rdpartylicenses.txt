@@ -418,6 +418,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 ng2-charts
 ISC
 
+ngx-bootstrap-icons
+MIT
+
 ngx-bootstrap/component-loader
 MIT
 
