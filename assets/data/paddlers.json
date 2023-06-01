@@ -389,6 +389,18 @@
             "name": "Jack Lam",
             "is_active": true,
             "aliases": ["Jack L"]
+        },
+        {
+            "id": "a333ca38-6a28-4886-b416-90387cad0a3e",
+            "name": "Katherine Wilson",
+            "is_active": true,
+            "aliases": []
+        },
+        {
+            "id": "8e3674f6-92a1-4f54-87a8-254448196837",
+            "name": "Isabel Knight",
+            "is_active": true,
+            "aliases": []
         }
     ]
 }
